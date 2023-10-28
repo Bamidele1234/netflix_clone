@@ -16,7 +16,7 @@ class NetflixClone extends StatelessWidget {
 
     return MaterialApp.router(
       // Set the theme mode to light.
-      themeMode: ThemeMode.light,
+      themeMode: ThemeMode.dark,
       // Set the theme to an instance of the AppTheme.
       theme: appTheme(),
       // Disable the debug banner.
