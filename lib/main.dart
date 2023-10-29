@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:netflix_clone/configs/theme.dart';
-
-import 'configs/app_router/router.dart';
+import 'package:netflix_clone/utils/app_router/router.dart';
 
 void main() {
   runApp(const NetflixClone());

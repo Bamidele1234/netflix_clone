@@ -3,8 +3,8 @@ import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
 import 'package:netflix_clone/constants/asset_paths.dart';
 
-import '../../../configs/app_router/router.dart';
-import '../../../configs/app_router/router.gr.dart';
+import '../../../utils/app_router/router.dart';
+import '../../../utils/app_router/router.gr.dart';
 
 @RoutePage()
 class SplashScreen extends StatefulWidget {
